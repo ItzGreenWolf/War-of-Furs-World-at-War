@@ -1,1 +1,1 @@
-Full design document - see local files for latest.
+Full design document.

@@ -1,1 +1,1 @@
-// Full prototype code - placeholder for now. Check local artifacts for complete version.
+See local for the full expanded prototype code with menus and basic gameplay.
